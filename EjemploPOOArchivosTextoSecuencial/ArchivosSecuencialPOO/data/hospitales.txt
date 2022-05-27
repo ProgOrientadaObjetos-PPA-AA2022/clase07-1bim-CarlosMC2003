@@ -1,0 +1,15 @@
+Isidro Ayora;35;1200,000000
+Clinica Abendaño;17;2875,000000
+Manuel Agustin;50;20000,750000
+Isidro Ayora;35;1200,000000
+Clinica Abendaño;17;2875,000000
+Manuel Agustin;50;20000,750000
+Isidro Ayora;35;1200,000000
+Clinica Abendaño;17;2875,000000
+Manuel Agustin;50;20000,750000
+Isidro Ayora;35;1200,000000
+Clinica Abendaño;17;2875,000000
+Manuel Agustin;50;20000,750000
+Isidro Ayora;35;1200,000000
+Clinica Abendaño;17;2875,000000
+Manuel Agustin;50;20000,750000
