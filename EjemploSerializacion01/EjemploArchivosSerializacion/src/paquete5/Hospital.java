@@ -15,6 +15,7 @@ public class Hospital implements Serializable{
     String nombre;
     int numeroCamas;
     double presupuesto;
+    String idHospital;
     
     public Hospital(String nom, int numCam, double pre) {
         nombre = nom;
@@ -34,6 +35,10 @@ public class Hospital implements Serializable{
         presupuesto = n;
     }
     
+    public void establecerIdentificacionHospital(String n) {
+        idHospital = n;
+    }
+    
     public String obtenerNombre() {
         return nombre;
     }
@@ -44,5 +49,15 @@ public class Hospital implements Serializable{
     
     public double obtenerPresupuesto() {
         return presupuesto;
+    }
+    
+    public String obtenerIdentificacionHospital() {
+        return idHospital;
+    }
+    
+        @Override
+    public String toString(){
+        String valor = String.format("%s - %s\n", nombre, idHospital);
+        return valor;
     }
 }
